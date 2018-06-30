@@ -1,0 +1,4 @@
+﻿  P6Q6.c
+c:\users\toshiba\desktop\oyc\collage\programming\c++\practical\p6q6\p6q6\p6q6.c(64): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\desktop\oyc\collage\programming\c++\practical\p6q6\p6q6\p6q6.c(71): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  P6Q6.vcxproj -> C:\Users\Toshiba\Desktop\OYC\Collage\Programming\C++\Practical\P6Q6\Debug\P6Q6.exe
