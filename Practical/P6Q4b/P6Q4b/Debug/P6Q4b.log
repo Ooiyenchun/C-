@@ -1,0 +1,4 @@
+﻿  P6Q4b.c
+c:\users\toshiba\desktop\oyc\collage\programming\c++\practical\p6q4b\p6q4b\p6q4b.c(57): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\desktop\oyc\collage\programming\c++\practical\p6q4b\p6q4b\p6q4b.c(38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\desktop\oyc\collage\programming\c++\practical\p6q4b\p6q4b\p6q4b.c(20): error C4700: uninitialized local variable 'hour' used

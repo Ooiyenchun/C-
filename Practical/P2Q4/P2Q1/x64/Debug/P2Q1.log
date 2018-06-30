@@ -1,0 +1,3 @@
+﻿  P2Q4.c
+f:\oyc\programming\c++\p2q4\p2q1\p2q4.c(23): warning C4013: 'gets' undefined; assuming extern returning int
+  P2Q1.vcxproj -> F:\OYC\Programming\C++\P2Q4\x64\Debug\P2Q4.exe

@@ -1,0 +1,5 @@
+﻿  P4Q9.c
+f:\oyc\programming\c++\practical\p4q9\p4q9\p4q9.c(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\oyc\programming\c++\practical\p4q9\p4q9\p4q9.c(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\oyc\programming\c++\practical\p4q9\p4q9\p4q9.c(54): warning C4476: 'printf' : unknown type field character ')' in format specifier
+  P4Q9.vcxproj -> F:\OYC\Programming\C++\Practical\P4Q9\Debug\P4Q9.exe

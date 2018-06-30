@@ -1,0 +1,4 @@
+﻿  P4Q4.c
+c:\users\toshiba\desktop\oyc\collage\programming\c++\practical\p6q4\p6q4\p4q4.c(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\Toshiba\Desktop\OYC\Collage\Programming\C++\Practical\P6Q4\Debug\P6Q4.exe not found or not built by the last incremental link; performing full link
+  P6Q4.vcxproj -> C:\Users\Toshiba\Desktop\OYC\Collage\Programming\C++\Practical\P6Q4\Debug\P6Q4.exe
