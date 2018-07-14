@@ -1,0 +1,5 @@
+﻿  P7Q7.c
+c:\users\toshiba\desktop\oyc\collage\programming\c++\practical\p7q7\p7q7\p7q7.c(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\toshiba\desktop\oyc\collage\programming\c++\practical\p7q7\p7q7\p7q7.c(28): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\toshiba\desktop\oyc\collage\programming\c++\practical\p7q7\p7q7\p7q7.c(28): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  P7Q7.vcxproj -> C:\Users\Toshiba\Desktop\OYC\Collage\Programming\C++\Practical\P7Q7\Debug\P7Q7.exe
