@@ -10,23 +10,13 @@ Date         : 14-7-2018
 
 int main()
 {
-	int userinput = 0, numberOfInput, sum = 0;
-	float average;
+	int result,number;
 
-	numberOfInput = 0;
-	do
+	for (number = 2; number <= 10; number += 2)
 	{
-		numberOfInput++;
-		sum += userinput;
-		printf("Please enter a number (type -999 to stop): ");
-		scanf("%d", &userinput);
-		if (userinput = -999)
-			numberOfInput--;
-	} while (userinput != -999);
-	average = sum / numberOfInput;
-	printf("You have keyyed in %d number", numberOfInput);
-	printf("The total is %d\n", numberOfInput, sum);
-	printf("The average is %.3f\n", average);
+		result = number * number;
+		printf("The square of %d is %d\n", number, result);
+	}
 
 	system("pause");
 	return 0;
